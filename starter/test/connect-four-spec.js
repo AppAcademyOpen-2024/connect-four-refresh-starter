@@ -120,4 +120,3 @@ describe ('Connect Four', function () {
 
 
 });
-
